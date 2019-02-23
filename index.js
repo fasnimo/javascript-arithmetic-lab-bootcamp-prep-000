@@ -19,7 +19,7 @@ function subtract() {
  }
   
   
-var number = 5
+function subtract5()
  number-- // 4
  
 parseInt('2') // 0

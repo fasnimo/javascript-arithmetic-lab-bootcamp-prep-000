@@ -28,5 +28,7 @@ parseInt('nonsense!', 10)
 
 parseFloat('2.2222', 10)
 
+parseFloat('nonsense!', 2.2222)
+
 
   

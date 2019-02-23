@@ -19,8 +19,8 @@ function subtract() {
  }
   
   
-function subtract5()
- 5-- // 4
+function subtract5(number)
+ number-- // 4
  
 parseInt('2') // 0
 

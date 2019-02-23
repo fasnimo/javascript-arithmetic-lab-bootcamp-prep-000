@@ -1,17 +1,17 @@
 function add() {
-  1 + 81
+  1 + 81 // 82
 }
 
 function subtract() {
-60 - 40
+60 - 40 //20
   
 }
  function multipy() {
- 2 * 3.4
+ 2 * 3.4 //6.8
  }
  
  function divide() {
-   5.0 / 2.5 
+   5.0 / 2.5 //
  }
  
  var number = 5

@@ -15,12 +15,12 @@ function subtract() {
    5.0 / 2.5 // 2
  }
  
- function add5(number) {
+ function add(number) {
   number++ // 6
  }
   
   
-function subtract5(number)
+function subtract()
  number-- // 4
  
 parseInt('2') // 0

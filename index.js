@@ -26,7 +26,7 @@ parseInt('2', 10)
 
 parseInt('nonsense!', 10)
 
-parse('2.2222', 10)
+parseFloat('2.2222', 10)
 
 
   

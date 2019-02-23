@@ -14,8 +14,10 @@ function subtract() {
    5.0 / 2.5 // 2
  }
  
- var number = 5
-  number++ // 6
+ function inc(5) {
+   number++ // 6
+ }
+  
   
 var number = 5
  number-- // 4

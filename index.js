@@ -3,32 +3,32 @@ function add() {
 }
 
 function subtract() {
-60 - 40 //20
+60 - 40 // 20
   
 }
  function multipy() {
- 2 * 3.4 //6.8
+ 2 * 3.4 // 6.8
  }
  
  function divide() {
-   5.0 / 2.5 //
+   5.0 / 2.5 // 2
  }
  
  var number = 5
-  number++
+  number++ // 6
   
 var number = 5
- number-- 
+ number-- // 4
  
-parseInt('2')
+parseInt('2') // 0
 
-parseInt('2', 10)
+parseInt('2', 10) // 2 
 
-parseInt('nonsense!', 10)
+parseInt('nonsense!', 10) // NaN
 
-parseFloat('2.2222', 10)
+parseFloat('2.2222', 10) // 2.222
 
-parseFloat('nonsense!', 2.2222)
+parseFloat('nonsense!', 2.2222) // NaN
 
 
   

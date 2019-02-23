@@ -14,7 +14,7 @@ function subtract() {
    5.0 / 2.5 // 2
  }
  
- function inc() {
+ function add5() {
    number++ // 6
  }
   

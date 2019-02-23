@@ -16,3 +16,7 @@ function subtract() {
  
  var number = 5
   number++
+  
+var number = 5
+ number-- 
+ 

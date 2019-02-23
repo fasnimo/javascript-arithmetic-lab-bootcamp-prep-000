@@ -19,7 +19,7 @@ function subtract() {
    5.0 / 2.5 // 2
  }
  
- function inc(5) {
+ function inc() {
    number++ // 6
  }
   

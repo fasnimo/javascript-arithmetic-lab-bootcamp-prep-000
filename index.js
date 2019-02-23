@@ -14,13 +14,13 @@ function subtract() {
    5.0 / 2.5 // 2
  }
  
- function add5() {
-  5 ++ // 6
+ function add5(number) {
+  number++ // 6
  }
   
   
 function subtract5()
- 5 -- // 4
+ 5-- // 4
  
 parseInt('2') // 0
 

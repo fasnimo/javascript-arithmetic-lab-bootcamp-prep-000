@@ -20,7 +20,7 @@ function subtract() {
  }
   
   
-function subtract()
+function subtract(number)
  number-- // 4
  
 parseInt('2') // 0

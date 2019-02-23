@@ -1,1 +1,4 @@
-parseInt('2', 10)
+function parseInt('2', 10){
+  
+}
+

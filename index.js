@@ -20,6 +20,8 @@ function subtract() {
 var number = 5
  number-- 
  
+parseInt('2')
+
 parseInt('2', 10)
 
 parseInt('2.2222', 10)

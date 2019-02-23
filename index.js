@@ -20,6 +20,5 @@ function subtract() {
 var number = 5
  number-- 
  
-function parseInt(){
+parseInt(){
   
-}

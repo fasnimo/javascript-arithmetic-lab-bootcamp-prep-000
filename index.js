@@ -1,8 +1,15 @@
 function add() {
-  2 += 10
+  1 + 81
 }
 
 function subtract() {
- 2 -= 10
+60 - 40
   
 }
+ function multipy() {
+ 2 * 3.4
+ }
+ 
+ function divide() {
+   5.0 / 2.5 
+ }

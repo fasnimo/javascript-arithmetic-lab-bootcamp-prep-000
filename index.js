@@ -13,3 +13,6 @@ function subtract() {
  function divide() {
    5.0 / 2.5 
  }
+ 
+ var number = 5
+  number++
